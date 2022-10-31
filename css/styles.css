@@ -16,3 +16,7 @@ body{
 .bottom-cloud{
     position:absolute;
 }
+
+.mountain{
+max-width: 70%;
+}
