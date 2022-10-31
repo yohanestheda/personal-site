@@ -1,19 +1,17 @@
-p{
-    color:#ECDBBA;
-}
-.top-container{
-    background-color: #191919;
-    padding:20px;
-    border:10px;
-    margin:0;
-    height:200px;
-}
-
 body{
-    margin:0;
+    font-family: "Source Code Pro";
 }
 
-h1{
-    margin:0;
-    color:#ECDBBA;
+.top-container{
+    background-color: rgb(196, 236, 252);
+    text-align:center;
+}
+
+.top-cloud{
+    position:relative;
+    left:200px;
+}
+
+.bottom-cloud{
+    position:absolute;
 }
