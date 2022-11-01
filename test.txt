@@ -1,0 +1,7 @@
+<h1>Lesson 1: It's not about languages</h1>
+
+<p>A common question in any beginner group is what language to learn. The answer is learn any and focus in until you can write functions and loops without thinking about it too much (not whole algorithms, just the syntax). Then find a web framework for your language and make useful web apps.</p>
+
+<h1>Lesson 2: How to get hired</h1>
+
+<p>I've run my own dev shop, hired and fired people. The worst kind of junior is one who doesn't improve fast enough. I'm not sure where you start from is really that important. Keep in mind, smaller companies have time to actually meet you as a person.</p>
